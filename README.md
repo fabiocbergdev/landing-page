@@ -14,12 +14,17 @@ https://github.com/
 
 Passo a passo para iniciar o GIT no projeto e subir para o GitHub.
 
-`git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/fabiocbergdev/landing-page.git
-git push -u origin main`
+`git init`
+
+`git add .`
+
+`git commit -m "first commit"`
+
+`git branch -M main`
+
+`git remote add origin https://github.com/[seu usuário]/[seu projeto].git`
+
+`git push -u origin main`
 
 ## Criar uma conta na Vercel
 
