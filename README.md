@@ -26,3 +26,15 @@ git push -u origin main`
 https://vercel.com/
 
 ## Publicar o projeto
+
+Conectar o GitHub com a Vercel. Inclusive é mais simples já criar a conta na Vercel fazendo login com o GitHub.
+
+O navegador pode bloquear o pop-up para permitir o acesso aos repositórios (vai ser um ícone vermelho na barra do navegador). Então basta clicar no ícone e permitir o pop-up.
+
+Por fim, basta clicar em Deploy.
+
+Depois, clicar em Continue to Dashboard.
+
+Clicar em Visit para ver o site publicado. (A Vercel vai criar automaticamente um domínio para o projeto.)
+
+https://landing-page-silk-zeta.vercel.app/
